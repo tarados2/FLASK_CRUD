@@ -2,3 +2,4 @@
 CRUD en flask-python
 Este repositorio contiene código en Python 
 SQLite
+hola Puri, sludos chata
